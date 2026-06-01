@@ -1,2 +1,7 @@
-# demo-escribania-gonzalez-landa-alvarez
-Demo web para Escribania González Landa - Álvarez — diseñada por eterlab.
+# Escribania González Landa - Álvarez
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
